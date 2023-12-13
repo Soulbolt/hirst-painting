@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc856e74-4a50-46a6-a6a2-33b907b0d79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hirst_painting.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc856e74-4a50-46a6-a6a2-33b907b0d79b" name="Changes" comment="install colorgram to extract colors off an image and created a code to loop through the rgb values to store rgb values in a tuple list.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -64,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1702497174099</updated>
     </task>
+    <task id="LOCAL-00001" summary="install colorgram to extract colors off an image and created a code to loop through the rgb values to store rgb values in a tuple list.">
+      <option name="closed" value="true" />
+      <created>1702501175005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702501175005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="install colorgram to extract colors off an image and created a code to loop through the rgb values to store rgb values in a tuple list." />
+    <option name="LAST_COMMIT_MESSAGE" value="install colorgram to extract colors off an image and created a code to loop through the rgb values to store rgb values in a tuple list." />
   </component>
 </project>
